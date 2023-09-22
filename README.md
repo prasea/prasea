@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parajanya Shrestha</h1>
 <h3 align="center">A dedicated developer from Nepal</h3>
-<img src="https://media.tenor.com/gxJsfpw-JtMAAAAM/friends-joey-tribbiani.gif"/>
+<img align="center" src="https://media.tenor.com/gxJsfpw-JtMAAAAM/friends-joey-tribbiani.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasea&label=Profile%20views&color=0e75b6&style=flat" alt="prasea" /> </p>
 
 <p align="left"> <a href="https://twitter.com/theparajanya" target="blank"><img src="https://img.shields.io/twitter/follow/theparajanya?logo=twitter&style=for-the-badge" alt="theparajanya" /></a> </p>
