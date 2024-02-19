@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/theparajanya" target="blank"><img src="https://img.shields.io/twitter/follow/theparajanya?logo=twitter&style=for-the-badge" alt="theparajanya" /></a> </p>
 
-- 🌱 I’m currently learning **MERN, Mobile App Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Lets talk about **Data Structures, Programming and Algorithms**
 
